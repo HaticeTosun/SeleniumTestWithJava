@@ -3,6 +3,7 @@
 
 # Compiled class file
 out
+test-output
 *.class
 
 # Log file

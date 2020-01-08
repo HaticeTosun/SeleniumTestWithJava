@@ -12,8 +12,11 @@ Selenium Exercise and Homework
 * [Day 10.](src/day10) Homework Solutions
 * [Day 11.](src/day11) Real project examples
 * [Day 12.](src/day12) Selenium Practice on real project
-* [Day 13.](src/day13) TestNG introduction
-* [Day 13.](src/day14) TestNG Asserts and converting old test to TestNG
+* [Day 13.](src/day13) TestNG Introduction
+* [Day 14.](src/day14) TestNG Asserts and converting old test to TestNG
+* [Day 15.](src/day15) TestNG Practice
+* [Day 16.](src/day16) TestNG Tips and Reports 
+
 
 
 

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/Project/seleniumWorking/src/day15">
+        <classes>
+            <class name="day15.Day7Homework1">
+                <methods>
+                    <include name="clickButton"/>
+                </methods>
+            </class>
+            <class name="day15.Day7Homework1Version2">
+                <methods>
+                    <include name="clickButton"/>
+                </methods>
+            </class>
+            <class name="day15.Project8Part1SolutionUsingTestNG">
+                <methods>
+                    <include name="main"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite
+
